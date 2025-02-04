@@ -1,0 +1,103 @@
+[
+    {
+        "name": "NAFNet-city",
+        "displayName": "city",
+        "SSIM": 7.660631609627268,
+        "M2R": 1.0947916666666666,
+        "PSNR": 361.1142460862337,
+        "num_images": 12,
+        "subcategories": []
+    },
+    {
+        "name": "NAFNet-person",
+        "displayName": "person",
+        "SSIM": 22.895241836519283,
+        "M2R": 3.094165173642257,
+        "PSNR": 1076.505518690467,
+        "num_images": 36,
+        "subcategories": [
+            {
+                "name": "NAFNet-person-face",
+                "displayName": "face",
+                "SSIM": 7.4859865501555,
+                "M2R": 1.0458973301721473,
+                "PSNR": 358.66100224209134,
+                "num_images": 12,
+                "subcategories": []
+            },
+            {
+                "name": "NAFNet-person-group",
+                "displayName": "group",
+                "SSIM": 7.977926179247365,
+                "M2R": 0.9882983699845679,
+                "PSNR": 361.3281422963911,
+                "num_images": 12,
+                "subcategories": []
+            },
+            {
+                "name": "NAFNet-person-single",
+                "displayName": "single",
+                "SSIM": 7.431329107116417,
+                "M2R": 1.0599694734855416,
+                "PSNR": 356.5163741519847,
+                "num_images": 12,
+                "subcategories": []
+            }
+        ]
+    },
+    {
+        "name": "NAFNet-architecture",
+        "displayName": "architecture",
+        "SSIM": 8.728837525798253,
+        "M2R": 0.847585720486111,
+        "PSNR": 360.9231690850036,
+        "num_images": 12,
+        "subcategories": []
+    },
+    {
+        "name": "NAFNet-landscape",
+        "displayName": "landscape",
+        "SSIM": 7.059097580067878,
+        "M2R": 1.3349817949459875,
+        "PSNR": 355.1941521687575,
+        "num_images": 12,
+        "subcategories": []
+    },
+    {
+        "name": "NAFNet-objects",
+        "displayName": "objects",
+        "SSIM": 24.874307627726584,
+        "M2R": 2.446631551037652,
+        "PSNR": 1055.801148799807,
+        "num_images": 35,
+        "subcategories": [
+            {
+                "name": "NAFNet-objects-vehicle",
+                "displayName": "vehicle",
+                "SSIM": 7.632639038410853,
+                "M2R": 1.0843921555831773,
+                "PSNR": 356.52407835840165,
+                "num_images": 12,
+                "subcategories": []
+            },
+            {
+                "name": "NAFNet-objects-fewer",
+                "displayName": "fewer",
+                "SSIM": 10.20108893979694,
+                "M2R": 0.3943221554248782,
+                "PSNR": 369.7661758722563,
+                "num_images": 12,
+                "subcategories": []
+            },
+            {
+                "name": "NAFNet-objects-highDetail",
+                "displayName": "highDetail",
+                "SSIM": 7.040579649518791,
+                "M2R": 0.9679172400295967,
+                "PSNR": 329.510894569149,
+                "num_images": 11,
+                "subcategories": []
+            }
+        ]
+    }
+]

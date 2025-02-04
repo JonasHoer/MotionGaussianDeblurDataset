@@ -1,0 +1,103 @@
+[
+    {
+        "name": "DeblurGan-city",
+        "displayName": "city",
+        "SSIM": 8.400403769274025,
+        "M2R": 0.8931184895833333,
+        "PSNR": 363.97948480399714,
+        "num_images": 12,
+        "subcategories": []
+    },
+    {
+        "name": "DeblurGan-person",
+        "displayName": "person",
+        "SSIM": 24.602511564062112,
+        "M2R": 2.629600198267009,
+        "PSNR": 1079.1617176487362,
+        "num_images": 36,
+        "subcategories": [
+            {
+                "name": "DeblurGan-person-face",
+                "displayName": "face",
+                "SSIM": 7.363280602895323,
+                "M2R": 1.0956602412122463,
+                "PSNR": 356.81598089515603,
+                "num_images": 12,
+                "subcategories": []
+            },
+            {
+                "name": "DeblurGan-person-group",
+                "displayName": "group",
+                "SSIM": 8.700144621667695,
+                "M2R": 0.7798242187499999,
+                "PSNR": 363.45952166207644,
+                "num_images": 12,
+                "subcategories": []
+            },
+            {
+                "name": "DeblurGan-person-single",
+                "displayName": "single",
+                "SSIM": 8.539086339499095,
+                "M2R": 0.7541157383047626,
+                "PSNR": 358.8862150915037,
+                "num_images": 12,
+                "subcategories": []
+            }
+        ]
+    },
+    {
+        "name": "DeblurGan-architecture",
+        "displayName": "architecture",
+        "SSIM": 9.308258030479239,
+        "M2R": 0.6746885850694444,
+        "PSNR": 362.7940649960602,
+        "num_images": 12,
+        "subcategories": []
+    },
+    {
+        "name": "DeblurGan-landscape",
+        "displayName": "landscape",
+        "SSIM": 8.009764577163065,
+        "M2R": 1.0450684799382717,
+        "PSNR": 357.64628715760256,
+        "num_images": 12,
+        "subcategories": []
+    },
+    {
+        "name": "DeblurGan-objects",
+        "displayName": "objects",
+        "SSIM": 26.805932821768387,
+        "M2R": 1.9026398780107883,
+        "PSNR": 1091.4411323698205,
+        "num_images": 36,
+        "subcategories": [
+            {
+                "name": "DeblurGan-objects-vehicle",
+                "displayName": "vehicle",
+                "SSIM": 8.484404050555312,
+                "M2R": 0.8414195611811637,
+                "PSNR": 358.3837410474241,
+                "num_images": 12,
+                "subcategories": []
+            },
+            {
+                "name": "DeblurGan-objects-fewer",
+                "displayName": "fewer",
+                "SSIM": 10.510812979223735,
+                "M2R": 0.30995368450655014,
+                "PSNR": 371.0413046261822,
+                "num_images": 12,
+                "subcategories": []
+            },
+            {
+                "name": "DeblurGan-objects-highDetail",
+                "displayName": "highDetail",
+                "SSIM": 7.810715791989338,
+                "M2R": 0.7512666323230744,
+                "PSNR": 362.0160866962142,
+                "num_images": 12,
+                "subcategories": []
+            }
+        ]
+    }
+]
