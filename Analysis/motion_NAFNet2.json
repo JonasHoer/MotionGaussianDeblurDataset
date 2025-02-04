@@ -1,0 +1,125 @@
+[
+    {
+        "name": "NAFNet-objects",
+        "displayName": "objects",
+        "SSIM": 22.7713398963719,
+        "M2R": 2480.7294377136773,
+        "PSNR": 1042.6749468043545,
+        "SSIM_EDGE": 21.67138938254125,
+        "SSIM_M2E": 3.3173504924347093,
+        "num_images": 35,
+        "subcategories": [
+            {
+                "name": "NAFNet-objects-fewer",
+                "displayName": "fewer",
+                "SSIM": 9.360246605181953,
+                "M2R": 726.2878434549197,
+                "PSNR": 366.42965094516586,
+                "SSIM_EDGE": 9.643744566568026,
+                "SSIM_M2E": 0.5205176515229987,
+                "num_images": 12,
+                "subcategories": []
+            },
+            {
+                "name": "NAFNet-objects-highDetail",
+                "displayName": "highDetail",
+                "SSIM": 6.536990977764989,
+                "M2R": 824.916006808852,
+                "PSNR": 325.0650713549717,
+                "SSIM_EDGE": 5.8363183182646905,
+                "SSIM_M2E": 1.295343934362478,
+                "num_images": 11,
+                "subcategories": []
+            },
+            {
+                "name": "NAFNet-objects-vehicle",
+                "displayName": "vehicle",
+                "SSIM": 6.874102313424957,
+                "M2R": 929.5255874499057,
+                "PSNR": 351.180224504217,
+                "SSIM_EDGE": 6.191326497708535,
+                "SSIM_M2E": 1.5014889065492325,
+                "num_images": 12,
+                "subcategories": []
+            }
+        ]
+    },
+    {
+        "name": "NAFNet-landscape",
+        "displayName": "landscape",
+        "SSIM": 9.493683625074443,
+        "M2R": 897.6859975405091,
+        "PSNR": 353.1823849395753,
+        "SSIM_EDGE": 6.553934209658733,
+        "SSIM_M2E": 1.5828367332175928,
+        "num_images": 12,
+        "subcategories": []
+    },
+    {
+        "name": "NAFNet-architecture",
+        "displayName": "architecture",
+        "SSIM": 9.71524394925144,
+        "M2R": 789.3704235387731,
+        "PSNR": 360.4371586105203,
+        "SSIM_EDGE": 8.531690454356315,
+        "SSIM_M2E": 0.9793869357638889,
+        "num_images": 12,
+        "subcategories": []
+    },
+    {
+        "name": "NAFNet-person",
+        "displayName": "person",
+        "SSIM": 26.088330241718353,
+        "M2R": 2594.3536873573166,
+        "PSNR": 1066.4059512310218,
+        "SSIM_EDGE": 20.587604811487303,
+        "SSIM_M2E": 3.797639518529434,
+        "num_images": 36,
+        "subcategories": [
+            {
+                "name": "NAFNet-person-group",
+                "displayName": "group",
+                "SSIM": 9.884403188966147,
+                "M2R": 765.4915516894933,
+                "PSNR": 361.5526659744148,
+                "SSIM_EDGE": 7.881496839028273,
+                "SSIM_M2E": 1.1182136140046297,
+                "num_images": 12,
+                "subcategories": []
+            },
+            {
+                "name": "NAFNet-person-single",
+                "displayName": "single",
+                "SSIM": 9.498624116906619,
+                "M2R": 882.4535437700807,
+                "PSNR": 354.0773375925603,
+                "SSIM_EDGE": 7.331326493098293,
+                "SSIM_M2E": 1.1243027213478118,
+                "num_images": 12,
+                "subcategories": []
+            },
+            {
+                "name": "NAFNet-person-face",
+                "displayName": "face",
+                "SSIM": 6.705302935845586,
+                "M2R": 946.4085918977427,
+                "PSNR": 350.77594766404667,
+                "SSIM_EDGE": 5.374781479360738,
+                "SSIM_M2E": 1.555123183176992,
+                "num_images": 12,
+                "subcategories": []
+            }
+        ]
+    },
+    {
+        "name": "NAFNet-city",
+        "displayName": "city",
+        "SSIM": 9.54222394034322,
+        "M2R": 769.9148441116898,
+        "PSNR": 361.10384058625914,
+        "SSIM_EDGE": 7.656101227737254,
+        "SSIM_M2E": 1.1884516059027777,
+        "num_images": 12,
+        "subcategories": []
+    }
+]
