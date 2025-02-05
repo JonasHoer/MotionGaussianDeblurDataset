@@ -2,12 +2,12 @@
     {
         "name": "DeblurGan-objects",
         "displayName": "objects",
-        "SSIM": 23.322266094100016,
-        "M2R": 2507.708165160848,
-        "PSNR": 1040.9749108697574,
-        "SSIM_EDGE": 22.4595666137663,
-        "SSIM_M2E": 3.2087257125585515,
-        "num_images": 35,
+        "SSIM": 23.9435538715678445,
+        "M2R":   2584.9380169459771,
+        "PSNR": 1070.37992843766346,
+        "SSIM_EDGE": 23.015626762460273,
+        "SSIM_M2E": 3.3264403474458164,
+        "num_images": 36,
         "subcategories": [
             {
                 "name": "DeblurGan-objects-fewer",
@@ -23,12 +23,12 @@
             {
                 "name": "DeblurGan-objects-highDetail",
                 "displayName": "highDetail",
-                "SSIM": 6.834165552146137,
-                "M2R": 849.5283696364253,
-                "PSNR": 323.4551932469654,
-                "SSIM_EDGE": 6.116661635633723,
-                "SSIM_M2E": 1.2948609837599148,
-                "num_images": 11,
+                "SSIM": 7.455453329613967,
+                "M2R": 926.7582214215544,
+                "PSNR": 352.8602108148713,
+                "SSIM_EDGE": 6.672721784327697,
+                "SSIM_M2E": 1.4125756186471797,
+                "num_images": 12,
                 "subcategories": []
             },
             {

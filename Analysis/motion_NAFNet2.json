@@ -2,12 +2,12 @@
     {
         "name": "NAFNet-objects",
         "displayName": "objects",
-        "SSIM": 22.7713398963719,
-        "M2R": 2480.7294377136773,
-        "PSNR": 1042.6749468043545,
-        "SSIM_EDGE": 21.67138938254125,
-        "SSIM_M2E": 3.3173504924347093,
-        "num_images": 35,
+        "SSIM": 23.365611803441443,
+        "M2R": 2555.7218019690274,
+        "PSNR": 1072.22631692753376,
+        "SSIM_EDGE": 22.2019637751107688,
+        "SSIM_M2E": 3.4351090319222072,
+        "num_images": 36,
         "subcategories": [
             {
                 "name": "NAFNet-objects-fewer",
@@ -23,12 +23,12 @@
             {
                 "name": "NAFNet-objects-highDetail",
                 "displayName": "highDetail",
-                "SSIM": 6.536990977764989,
-                "M2R": 824.916006808852,
-                "PSNR": 325.0650713549717,
-                "SSIM_EDGE": 5.8363183182646905,
-                "SSIM_M2E": 1.295343934362478,
-                "num_images": 11,
+                "SSIM": 7.131262884834533,
+                "M2R": 899.908371064202,
+                "PSNR": 354.6164414781509,
+                "SSIM_EDGE": 6.3668927108342078,
+                "SSIM_M2E": 1.413102473849976,
+                "num_images": 12,
                 "subcategories": []
             },
             {
