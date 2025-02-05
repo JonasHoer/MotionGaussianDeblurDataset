@@ -7,7 +7,7 @@
         "PSNR": 1091.62441297856731,
         "SSIM_EDGE": 27.515997893767418,
         "SSIM_M2E": 1.97093684458561305,
-        "num_images": 35,
+        "num_images": 36,
         "subcategories": [
             {
                 "name": "DeblurGan-objects-fewer",
